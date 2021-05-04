@@ -5,7 +5,10 @@ I am Marcel Wiechmann, a data analyst living in Germany and writing data analyti
 
 🌱 *Currently learning*: Machine Learning in Python
 <br>🤜💥🤛 *Looking to collaborate on*: Data Analytics & Data Science
+<br> 💬 *Talk to me about*: Python,Freelancing Opportunites, Data Science, Statistics, Experimental Design, Social Psychology
 <br>📫 *How to reach me*: [LinkedIn](https://www.linkedin.com/in/marcel-wiechmann-4a10a343/), [E-Mail](mail@mwiechmann.com)
+
+![Metrics](https://github.com/MWiechmann/MWiechmann/blob/master/github-metrics.svg)
 
 <!---
 MWiechmann/MWiechmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
