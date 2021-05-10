@@ -24,7 +24,4 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
-          plugin_lines: yes
-          plugin_projects: yes
-          plugin_projects_limit: 4
           plugin_traffic: yes
