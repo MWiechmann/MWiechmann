@@ -2,7 +2,7 @@
 
 I am Marcel Wiechmann, a data analyst living in Germany and writing data analytics projects in (mostly) python 🐍.
 
-🌱 *Currently learning*: Machine Learning in Python
+🌱 *Currently learning*: Machine Learning in Python, creating dashboards with PowerBi
 <br>🤜💥🤛 *Looking to collaborate on*: Data Analytics & Data Science
 <br> 💬 *Talk to me about*: Python, Market Research, Data Science, Statistics, Experimental Design, Social Psychology
 <br>📫 *How to reach me*: [LinkedIn](https://www.linkedin.com/in/marcel-wiechmann-4a10a343/), [E-Mail](mail@mwiechmann.com)
