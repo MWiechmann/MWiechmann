@@ -1,11 +1,28 @@
 # 👋 Hi there!
 
-I am Marcel Wiechmann, a data analyst living in Germany and writing data analytics projects in (mostly) python 🐍.
+I'm Marcel, a Data School Consultant at The Information Lab in Germany. While I'm now focusing on Tableau and Alteryx at work, I still enjoy tinkering with Python 🐍 for fun projects involving data analysis and AI.
 
-🌱 *Currently learning*: Machine Learning in Python, creating dashboards with PowerBi
-<br>🤜💥🤛 *Looking to collaborate on*: Data Analytics & Data Science
-<br> 💬 *Talk to me about*: Python, Market Research, Data Science, Statistics, Experimental Design, Social Psychology
-<br>📫 *How to reach me*: [LinkedIn](https://www.linkedin.com/in/marcel-wiechmann-4a10a343/), [E-Mail](mail@mwiechmann.com)
+**🔨 Daily tools**
+- Tableau (learning)
+- Alteryx (ditto)
+- Python (a bit rusty, but still my go-to for hobby projects)
+
+**🌱 Learning & Exploring**
+- All things Tableau and Alteryx
+- Keeping my Python skills alive
+- ML and Data Science (someday!)
+- R (on the wishlist)
+  
+**💡 Background in**
+- Data Analysis
+- Statistics & Research Methods
+- Making complex stuff understandable
+  
+🤝 Always up for interesting data projects, especially if they involve data analysis or ML/AI!
+
+📫 Let's connect:
+- [LinkedIn](https://www.linkedin.com/in/marcel-wiechmann-4a10a343/)
+- [E-Mail](mail@mwiechmann.com)
 
 ## My GitHub Stats <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github Logo" width=50px/>
 ![Metrics](https://github.com/MWiechmann/MWiechmann/blob/main/github-metrics.svg)
