@@ -10,8 +10,8 @@ I'm Marcel, a Data School Consultant at The Information Lab in Germany. While I'
 **🌱 Learning & Exploring**
 - All things Tableau and Alteryx
 - Keeping my Python skills alive
-- ML and Data Science (someday!)
-- R (on the wishlist)
+- ML and Data Science
+- R
   
 **💡 Background in**
 - Data Analysis
